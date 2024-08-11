@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">suitmediaApp</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="btn_back_desc">btn_back_desc</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="john_doe">John Doe</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="profile_desc">profile_desc</string>
+    <string name="avatar_desc">avatar_desc</string>
+    <string name="username">username</string>
+    <string name="third_screen_appbar">Third Screen</string>
+</resources>
